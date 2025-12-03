@@ -9,7 +9,7 @@ view and run the complete Jupyter Notebook here:
 
 ## Peer Review
 Click here to view the peer review Markdown file:  
-[regression_moses.ipynb](https://github.com/mokeyzz1/ml_regression_moses/blob/main/regression_moses.ipynb)
+[peer_review.md](https://github.com/mokeyzz1/ml_regression_moses/blob/main/peer_review.md)
 
 ## Setup Instructions
 
